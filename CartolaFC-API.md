@@ -89,7 +89,7 @@ ID:
 CADUN_ID: 
 [http://api.cartola.globo.com/time/id/9459952/info.json](http://api.cartola.globo.com/time/id/9459952/info.json)
 
-### Busca os jogadores do time
+### Buscar os jogadores do time
 
 Essa busca retorna os jogadores do time que estão escalados na rodata atual.
 
@@ -114,3 +114,16 @@ http://api.cartola.globo.com/time_adv/slb-encarnados.json
 	}
 }
 ```
+
+### Buscar rodada anterior do time
+
+Você tem que utilizar o CADUN_ID do time após o parâmetro ID e o número da rodada após o parâmetro RODADA
+
+Rodada 1:
+[http://api.cartola.globo.com/time/id/9459952/rodada/1/info.json](http://api.cartola.globo.com/time/id/9459952/rodada/1/info.json)
+
+Rodada 2:
+[http://api.cartola.globo.com/time/id/9459952/rodada/2/info.json](http://api.cartola.globo.com/time/id/9459952/rodada/2/info.json)
+
+Rodada 3:
+[http://api.cartola.globo.com/time/id/9459952/rodada/3/info.json](http://api.cartola.globo.com/time/id/9459952/rodada/3/info.json)

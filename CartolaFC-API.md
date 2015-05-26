@@ -119,6 +119,9 @@ http://api.cartola.globo.com/time_adv/slb-encarnados.json
 
 Você tem que utilizar o CADUN_ID do time após o parâmetro ID e o número da rodada após o parâmetro RODADA
 
+Lembra?
+CADUN_ID: http://api.cartola.globo.com/time/id/9459952/info.json
+
 Rodada 1:
 [http://api.cartola.globo.com/time/id/9459952/rodada/1/info.json](http://api.cartola.globo.com/time/id/9459952/rodada/1/info.json)
 

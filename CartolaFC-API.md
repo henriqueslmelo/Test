@@ -141,9 +141,11 @@ Bem legal essa consulta, você consegue listar todas as informações dos jogos 
 
 Rodada 1:
 [http://api.cartola.globo.com/partidas/1.json](http://api.cartola.globo.com/partidas/1.json)
+
+Rodada 2,3,etc...
+[http://api.cartola.globo.com/partidas/2.json](http://api.cartola.globo.com/partidas/2.json)
+
 ....
-Rodada 4:
-[http://api.cartola.globo.com/partidas/4.json](http://api.cartola.globo.com/partidas/4.json)
-....
+
 Rodada 38
 [http://api.cartola.globo.com/partidas/38.json](http://api.cartola.globo.com/partidas/38.json)

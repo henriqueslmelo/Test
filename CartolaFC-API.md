@@ -1,7 +1,7 @@
 # CartolaFC API
 
 Essas informações não são oficiais da API, portanto não é garantido que os padrão de consulta sejam mantidos ou até mesmo a disponibilidade da API seja uma garantia.
-
+***
 
 ### Informações sobre a rodada atual
 

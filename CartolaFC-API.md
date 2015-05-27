@@ -91,8 +91,12 @@ CADUN_ID:
 
 ### Buscar os jogadores do time
 
-Essa busca retorna os jogadores do time que estão escalados na rodata atual.
+Essa busca retorna os jogadores do time que estão escalados na rodada atual, pode consultar com o ID do time ou o CADUN_ID.
 
+CADUN_ID:
+[http://api.cartola.globo.com/time_adv/cadun/40424774.json](http://api.cartola.globo.com/time_adv/cadun/40424774.json)
+
+ID:
 http://api.cartola.globo.com/time_adv/slb-encarnados.json
 
 ```json
@@ -130,3 +134,16 @@ Rodada 2:
 
 Rodada 3:
 [http://api.cartola.globo.com/time/id/9459952/rodada/3/info.json](http://api.cartola.globo.com/time/id/9459952/rodada/3/info.json)
+
+### Buscar Jogos da Rodada (Brasileirão)
+
+Bem legal essa consulta, você consegue listar todas as informações dos jogos do brasileirão informando o número da rodada.
+
+Rodada 1:
+[http://api.cartola.globo.com/partidas/1.json](http://api.cartola.globo.com/partidas/1.json)
+....
+Rodada 4:
+[http://api.cartola.globo.com/partidas/4.json](http://api.cartola.globo.com/partidas/4.json)
+....
+Rodada 38
+[http://api.cartola.globo.com/partidas/38.json](http://api.cartola.globo.com/partidas/38.json)

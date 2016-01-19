@@ -149,3 +149,10 @@ Rodada 2,3,etc...
 
 Rodada 38
 [http://api.cartola.globo.com/partidas/38.json](http://api.cartola.globo.com/partidas/38.json)
+
+
+### Atletas mais pontuados da rodada atual
+[http://api.cartola.globo.com/atletas/pontuados.json](http://api.cartola.globo.com/atletas/pontuados.json)
+
+### Atletas mais escalados - TOP 10
+[http://api.cartola.globo.com/atletas/top10maisescalados.json] (http://api.cartola.globo.com/atletas/top10maisescalados.json)

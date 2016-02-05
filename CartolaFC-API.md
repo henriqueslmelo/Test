@@ -3,6 +3,9 @@
 Essas informações não são oficiais da API, portanto não é garantido que o padrão de consulta seja mantido ou que a disponibilidade da API seja uma garantia.
 ***
 
+## UPDATE (05/02/2016)
+A API mudou e assim que tivermos novidades vamos atualizar aqui.
+
 ### Informações sobre a rodada atual
 
 [http://api.cartola.globo.com/mercado/status.json](http://api.cartola.globo.com/mercado/status.json)

@@ -1,7 +1,7 @@
 ### API CartolaFC 2016
 Novas chamadas para a nova API que foi lançada em 2016.
 
-[https://github.com/wgenial/cartrolandofc/blob/master/nova-api.txt](https://github.com/wgenial/cartrolandofc/blob/master/nova-api.txt)
+https://github.com/wgenial/cartrolandofc/blob/master/nova-api.md
 
 ***
 

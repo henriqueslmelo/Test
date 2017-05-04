@@ -1,0 +1,3 @@
+A API 2017 não teve quase mudanças para a de 2016, as chamadas podem ser consultadas aqui [https://github.com/wgenial/cartrolandofc/blob/master/nova-api.md](https://github.com/wgenial/cartrolandofc/blob/master/nova-api.md)
+
+Também tem uma lista das chamadas para a API que foi obtida diretamente do site oficial [api-cartolafc-2017.txt](https://github.com/wgenial/cartrolandofc/blob/master/api-cartolafc-2017.txt)
